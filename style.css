@@ -1,0 +1,63 @@
+.heading{
+    font-weight: bold;
+    color: black;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+#bedroom{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    color: black; 
+    font-weight: bold;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#bottle{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    color: black; 
+    font-weight: bold;
+    padding-right: 75px;
+    padding-left: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#desk{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    color: black; 
+    font-weight: bold;
+    padding-right: 75px;
+    padding-left: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#AC{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    color: black; 
+    font-weight: bold;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#TV{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    color: black; 
+    font-weight: bold;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
